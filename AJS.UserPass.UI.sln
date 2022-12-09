@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJS.UserPass.UI", "AJS.UserPass.UI\AJS.UserPass.UI.csproj", "{2083FA76-1084-43A9-AE58-E5D62AA8951C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2083FA76-1084-43A9-AE58-E5D62AA8951C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2083FA76-1084-43A9-AE58-E5D62AA8951C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2083FA76-1084-43A9-AE58-E5D62AA8951C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2083FA76-1084-43A9-AE58-E5D62AA8951C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29926807-B2BA-4264-94A1-FDFEB0BCE1CA}
+	EndGlobalSection
+EndGlobal
